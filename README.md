@@ -8,10 +8,10 @@ Clean, minimal R pipeline to reproduce the core tables/results used in the accom
 ## How to run
 1. Put the raw files in `data/raw/` using the tree below.
 2. In R:
-   ```r
+```r
  install.packages(c("tidyverse","lubridate","readxl","tidymodels","plm","janitor","broom","svglite"))
  source("run_all.R")
-   ```
+```
 3. Outputs:
 - Derived tables in outputs/derived/
 - Figures in outputs/figures/
