@@ -3,7 +3,7 @@ Do pitchers change their decisions when stakes are higher? This project sets out
 
 # Do Pitchers Become More Predictable Under Pressure?
 
-Clean, minimal R pipeline to reproduce the core tables/results used in the accompanying presentation.
+This project sets out to answer this question by using pitch-by-pitch MLB data to see if pitchers follow trends when they are under pressure. Clean, minimal R pipeline to reproduce the core tables/results found at [www.trygaanenson.com](https://www.trygaanenson.com/baseball)
 
 ## How to run
 1. Put the raw files in `data/raw/` using the tree below.
