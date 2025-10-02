@@ -31,3 +31,4 @@ This project sets out to answer this question by using pitch-by-pitch MLB data t
 5. Notes
 - pressure_situation follows late-inning/RISP/score diff/standings/free-agency rules
 - Ages and other optional enrichments are omitted to avoid external calls
+- IMPORTANT: The raw data files are too large to upload to Github. If you're interested in recreating the analysis, please email me at tryg.aanenson@gmail.com and I will send the raw files. 
